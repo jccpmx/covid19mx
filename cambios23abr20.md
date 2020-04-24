@@ -1,11 +1,10 @@
-```
-Cambios del 12 al 13 de abril del 2020
+# Servicio GraphQL de datos covid-19 de México
 
-2112 Registros nuevos
-2867 actualizaciones
-```
-Cambios por columna
-| Columna | Numero de cambios |
+## Cambios al 13 abril 2020
+
+Cambios por variable
+
+| Variable | Núm. de cambios |
 |---------|-------------------|
 |asma|2|
 |cardiovascular| 	2|
@@ -33,8 +32,9 @@ Cambios por columna
 |uci| 	16|
 
 
-`Procesado por @jccpmx`
+### Fallow me on twitter [@jccpmx][jccpmx]
 
-[Página del proyecto][regreso]
+### Ver detalle del proyecto en la [página del proyecto][regreso]
 
 [regreso]: <https://jccpmx.github.io/covid19mx/>
+[jccpmx]:<https://twitter.com/jccpmx?ref_src=twsrc%5Etfw>

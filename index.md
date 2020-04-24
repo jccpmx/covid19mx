@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+## Servicio GraphQL datos covid-19 de México
 
-You can use the [editor on GitHub](https://github.com/jccpmx/covid19mx/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Descripcion
+Servicio para ver los cambio que suceden en la base de datos de COVID-19 en México.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Funcionalidad
+- Datos acumulaods desde el 12 de abril del 2020, con identificador a cada registro
+- Historico de cambios en cada registro detallado por campo que cambia
+- Servicio GraphQL
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## Histórico de cambios
 
-- Bulleted
-- List
+|Fecha|Cambios|Detalle de cambios|
+|------------|-------------------|------------------|
+|23 abr 2020 |```2112 Registros nuevos``` <br />```2867 actualizaciones```|[cambios a detalle][abr20] |
 
-1. Numbered
-2. List
+### Procesado por @jccpmx
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jccpmx/covid19mx/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[abr20]: <https://github.com/jccpmx/covidmx/blob/master/cambios23abr20.md>

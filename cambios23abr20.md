@@ -37,4 +37,4 @@ Cambios por columna
 [Regresar a la pagina principal][regreso]
 ### Procesado por @jccpmx
 
-[regreso]: <https://github.com/jccpmx/covidmx/blob/master/README.md>
+[regreso]: <https://jccpmx.github.io/covid19mx/>

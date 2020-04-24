@@ -10,7 +10,6 @@ Servicio para ver los cambio que suceden en la base de datos de COVID-19 en Méx
 - Servicio GraphQL
 
 
-
 ## Histórico de cambios
 
 |Fecha|Cambios|Detalle|
@@ -18,7 +17,6 @@ Servicio para ver los cambio que suceden en la base de datos de COVID-19 en Méx
 |23 abr 2020 |```2112 Registros nuevos``` <br />```2867 actualizaciones``` <br />```36 bajas```|[ver cambios][abr20] |
 
 
-### Procesado por @jccpmx
-
+`Procesado por @jccpmx`
 
 [abr20]: <https://github.com/jccpmx/covid19mx/blob/master/cambios23abr20.md>

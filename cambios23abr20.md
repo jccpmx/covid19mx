@@ -33,8 +33,8 @@ Cambios por columna
 |uci| 	16|
 
 
+`Procesado por @jccpmx`
 
-[Regresar a la pagina principal][regreso]
-### Procesado por @jccpmx
+[Página del proyecto][regreso]
 
 [regreso]: <https://jccpmx.github.io/covid19mx/>

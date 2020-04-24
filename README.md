@@ -1,24 +1,10 @@
 ## Servicio GraphQL de datos covid-19 de México
 
 ## Descripción
-Servicio para ver los cambio que suceden en la base de datos de COVID-19 en México.
+Servicio de consulta de datos de COVID-19 en México acumulados desde el 12 de abril del 2020 y con el histórico de los cambios de cada registro.
 
+`Procesado por @jccpmx`
 
-## Características
-- Datos acumulaods desde el 12 de abril del 2020, con identificador a cada registro
-- Histórico de cambios en cada registro detallado por campo que cambia
-- Servicio GraphQL
+[Página del proyecto][regreso]
 
-
-
-## Histórico de cambios
-
-|Fecha|Cambios|Detalle|
-|------------|-------------------|------------------|
-|23 abr 2020 |```2112 Registros nuevos``` <br />```2867 actualizaciones``` <br />```36 bajas```|[ver cambios][abr20] |
-
-
-### Procesado por @jccpmx
-
-
-[abr20]: <https://github.com/jccpmx/covid19mx/blob/master/cambios23abr20.md>
+[regreso]: <https://jccpmx.github.io/covid19mx/>

@@ -20,4 +20,4 @@ Servicio para ver los cambio que suceden en la base de datos de COVID-19 en Méx
 ### Procesado por @jccpmx
 
 
-[abr20]: <https://github.com/jccpmx/covidmx/blob/master/cambios23abr20.md>
+[abr20]: <https://github.com/jccpmx/covid19mx/blob/master/cambios23abr20.md>

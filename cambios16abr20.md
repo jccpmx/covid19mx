@@ -1,33 +1,32 @@
 # Servicio GraphQL de datos covid-19 de México
 
-## Cambios al 23 abril 2020
+## Cambios al 15 abril 2020
 
 Cambios por variable
 
 | Variable | Núm. de cambios |
 |---------|-------------------|
-diabetes|1
-edad|2
-embarazo|4
-entidad_nac|11623
-fecha_def|107
-fecha_ingreso|9
-fecha_sintomas|10
-hipertension|1
-inmusupr|1
-intubado|31
-municipio_res|2
-neumonia|24
-obesidad|2
-otra_com|2
-pais_nacionalidad|24727
-pais_origen|55479
-resultado|2291
-sector|266
-sexo|3
-tabaquismo|2
-tipo_paciente|8
-uci|23
+|edad|8
+|embarazo|3
+|entidad_nac|2
+|entidad_res|1
+|epoc|1
+|fecha_def|62
+|fecha_ingreso|23
+|fecha_sintomas|10
+|habla_lengua_indig|1
+|intubado|35
+|municipio_res|5
+|neumonia|23
+|obesidad|2
+|otro_caso|1
+|pais_nacionalidad|10
+|renal_cronica|1
+|resultado|2126
+|sexo|3
+|tabaquismo|2
+|tipo_paciente|23
+|uci|30
 
 
 ### Fallow me on twitter [@jccpmx][jccpmx]

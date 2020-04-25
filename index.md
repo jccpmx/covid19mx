@@ -1,10 +1,11 @@
 ## Servicio GraphQL de datos covid-19 de México
 
 ## Descripción
-Servicio para consultar los datos y cambios de los datos de COVID-19 en México.
+Servicio para consultar los datos de COVID-19 en México y cambios de cada actualización utilizando el identificador único de cada registro.
 
-Los datos se analizan e identifican de acuerdo a los nuevos datos publicados por la ssa de MX, se identifican cambios con respecto a los anteriores.
+Los datos se analizan, clasifican y acumulan de acuerdo a los nuevos datos publicados por la SS de MX, se identifican cambios con respecto a los anteriores y se publicaran en un servicio **GraphSQL** 
 
+`*Servicio pendiente de publiar`
 
 ## Características
 
@@ -12,7 +13,7 @@ Los datos se analizan e identifican de acuerdo a los nuevos datos publicados por
 - Datos acumulaods desde el 12 de abril del 2020, con identificador de registro.
 - Histórico de cambios en cada registro detallado por campo, dato nuevo y dato anterior.
 - Identificador del registro si es activo o no.
-- Servicio GraphQL.
+- Servicio en GraphQL.
 
 
 ## Histórico de cambios

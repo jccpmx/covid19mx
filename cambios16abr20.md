@@ -1,6 +1,6 @@
 # Servicio GraphQL de datos covid-19 de México
 
-## Cambios al 15 abril 2020
+## Cambios al 16 abril 2020
 
 Cambios por variable
 

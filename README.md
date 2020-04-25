@@ -1,7 +1,9 @@
 # Servicio GraphQL de datos covid-19 de México
 
 ## Descripción
-Servicio GraphQL de consulta de datos de COVID-19 en México, acumulados desde el 12 de abril del 2020 y con el histórico de los cambios de cada registro.
+Servicio **GraphQL** de consulta de datos de COVID-19 en México, acumulados desde el 12 de abril del 2020 y con el histórico de los cambios de cada registro.
+
+`*Servicio pendiente de publiar`
 
 ### Fallow me on twitter [@jccpmx][jccpmx]
 
